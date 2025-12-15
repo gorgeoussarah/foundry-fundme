@@ -1,0 +1,5 @@
+forge-std/=lib/forge-std/src/
+@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/
+chainlink-brownie-contracts/=lib/chainlink-brownie-contracts/
+chainlink/=lib/chainlink/
+
