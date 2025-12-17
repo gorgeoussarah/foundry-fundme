@@ -7,6 +7,8 @@
 [![Tests](https://img.shields.io/github/actions/workflow/status/gorgeoussarah/foundry-fundme/test.yml?label=tests)](https://github.com/gorgeoussarah/foundry-fundme/actions)
 [![Alchemy](https://img.shields.io/badge/Alchemy-RPC%20Provider-blueviolet)](https://www.alchemy.com)
 [![Etherscan](https://img.shields.io/badge/Etherscan-Contract%20Verification-brightgreen)](https://etherscan.io/address/0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Active-success)
 
 ---
 
